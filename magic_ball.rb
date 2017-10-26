@@ -4,11 +4,6 @@ answers1 = [
   "Здравствуй, смертный. Сегодня для тебя такой ответ:"
 ]
 
-puts answers1.sample
-puts
-
-sleep 2
-
 answers = [
   "Бесспорно",
   "Предрешено",
@@ -35,4 +30,7 @@ answers = [
   "Весьма сомнительно"
 ]
 
+puts answers1.sample
+puts
+sleep 2
 puts answers.sample

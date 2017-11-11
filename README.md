@@ -1,4 +1,4 @@
-## The game Magic ball
+## The game "Magic ball"
 
 The program which helps make the decision.
 

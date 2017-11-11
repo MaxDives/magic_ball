@@ -2,8 +2,8 @@
 
 The program which helps make the decision.
 
-[**Learn more about the program read here:**](https://en.wikipedia.org/wiki/Magic_8_ball)
+[**Learn more about the program read here.**](https://en.wikipedia.org/wiki/Magic_8_ball)
 
-**Start the game**
-Start ffrom terminal.<br>
+**Start the game**<br>
+Start from terminal.<br>
 `ruby magic_ball.rb`
